@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+body {
+    margin: 0;
+    background: linear-gradient(123deg, black 10%, yellow 100%), linear-gradient(200deg, orange 0%, white 100%), linear-gradient(180deg, #FFFFFF 0%, yellow 100%), linear-gradient(225deg, yellow 20%, yellow 45%, yellow 45%, yellow 70%, yellow 70%, white 85%, white 85%, white 100%), linear-gradient(135deg, #0E0220 15%, #0E0220 35%, #E40475 5%, #E40475 60%, #48E0E4 60%, #48E0E4 68%, #D7FBF6 68%, #D7FBF6 100%);
+    background-blend-mode: overlay, overlay, overlay, darken, normal;
+    font-family: 'Lato', sans-serif;
+}
